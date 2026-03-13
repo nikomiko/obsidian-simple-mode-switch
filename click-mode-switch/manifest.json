@@ -1,0 +1,10 @@
+{
+  "id": "click-mode-switch",
+  "name": "Click Mode Switch",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Double-clic sur zone vide → mode édition. Clic hors contenu → mode lecture.",
+  "author": "Nico",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
